@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hydrate-Mate</string>
+
+    <string name="message">Hello World from Max</string>
+    <string name="button_message">Click Me</string>
+    <string name="TODO">TODO</string>
+    <string name="Get_Started">Get Started</string>
+
+    <string name="Amount"> Amount: 250 ml</string>
+
+    <string name="Achieved"> Achieved:</string>
+    <string name="user_Id"> User ID: </string>
+    <string name="GoalAmount">Goal Amount (ml)</string>
+
+
+</resources>
